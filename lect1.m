@@ -1,0 +1,1 @@
+X = intersect_gaussians(5, 7, 0.5, 1);
